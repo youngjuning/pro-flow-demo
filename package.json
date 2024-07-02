@@ -9,6 +9,7 @@
     "start": "npm run dev"
   },
   "dependencies": {
+    "@ant-design/pro-flow": "^1.3.10",
     "umi": "^4.3.0"
   },
   "devDependencies": {
