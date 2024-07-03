@@ -2,8 +2,8 @@ import { defineConfig } from "umi";
 
 export default defineConfig({
   routes: [
-    { path: "/", component: "index" },
-    { path: "/docs", component: "docs" },
+    { path: "/proflow", component: "ProFlow" },
+    { path: "/reactflow", component: "ReactFlow" },
   ],
   npmClient: 'pnpm',
 });
